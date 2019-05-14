@@ -1,0 +1,145 @@
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\bin\Debug\BitmapFilters.exe.config
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\bin\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\bin\Debug\BitmapFilters.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Debug\BitmapFilters.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapTransparency\BitmapTransparency\BitmapTransparency\obj\Debug\BitmapFilters.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapFilters\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapFiltersColorMatrix\BitmapFilters\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\Новая папка\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Users\Milestone\Desktop\Новая папка\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\Новая папка\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\Новая папка\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\Новая папка\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\Новая папка\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+C:\Users\Milestone\Desktop\Новая папка\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Users\Milestone\Desktop\Новая папка\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Users\Milestone\Desktop\Новая папка\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Users\Milestone\Desktop\maybe\Новая папка\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Users\Milestone\Desktop\maybe\Новая папка\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\maybe\Новая папка\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Users\Milestone\Desktop\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+C:\Users\Milestone\Desktop\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Users\Milestone\Desktop\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Users\Milestone\Desktop\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №2\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №2\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №2\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №2\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №2\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №2\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №2\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №2\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №2\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №3\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №3\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №3\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №3\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №3\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №3\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №3\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №3\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №3\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Users\Milestone\Desktop\Лабораторная работа №4\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Users\Milestone\Desktop\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\Лабораторная работа №4\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\Лабораторная работа №4\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+C:\Users\Milestone\Desktop\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Users\Milestone\Desktop\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Users\Milestone\Desktop\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Users\Milestone\Desktop\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.ShowImageForm.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №4\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №4\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №4\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.ShowImageForm.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №4\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Users\Milestone\Desktop\Лабораторная работа №5\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Users\Milestone\Desktop\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\Лабораторная работа №5\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\Лабораторная работа №5\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+C:\Users\Milestone\Desktop\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Users\Milestone\Desktop\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Users\Milestone\Desktop\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.ShowImageForm.resources
+C:\Users\Milestone\Desktop\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №5\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №5\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №5\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.ShowImageForm.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №5\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Users\Milestone\Desktop\C#\BitmapFilters\obj\Debug\BitmapFilters.ShowImageForm.resources
+C:\Users\Milestone\Desktop\5\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Users\Milestone\Desktop\5\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\5\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\5\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\5\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\5\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+C:\Users\Milestone\Desktop\5\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Users\Milestone\Desktop\5\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Users\Milestone\Desktop\5\C#\BitmapFilters\obj\Debug\BitmapFilters.ShowImageForm.resources
+C:\Users\Milestone\Desktop\5\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Users\Milestone\Desktop\6\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+C:\Users\Milestone\Desktop\6\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\6\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+C:\Users\Milestone\Desktop\6\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+C:\Users\Milestone\Desktop\6\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+C:\Users\Milestone\Desktop\6\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+C:\Users\Milestone\Desktop\6\C#\BitmapFilters\obj\Debug\BitmapFilters.ShowImageForm.resources
+C:\Users\Milestone\Desktop\6\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+C:\Users\Milestone\Desktop\6\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+C:\Users\Milestone\Desktop\6\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojResolveAssemblyReference.cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.ShowImageForm.resources
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.Cache
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+D:\LocalNetwork\University\Магистратура (1 курс)\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\bin\Debug\BitmapFilters.exe.config
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\bin\Debug\BitmapFilters.exe
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\bin\Debug\BitmapFilters.pdb
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.csprojAssemblyReference.cache
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.MainForm.resources
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.Properties.Resources.resources
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.ShowImageForm.resources
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.GenerateResource.cache
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.csproj.CoreCompileInputs.cache
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.exe
+D:\Университетские файлы с google диска\Методы и технологии обработки изображений\Лабораторная работа №6\C#\BitmapFilters\obj\Debug\BitmapFilters.pdb
